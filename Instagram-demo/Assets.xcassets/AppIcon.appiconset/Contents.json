@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "15169205701024px-Instagram_logo_2018_png.png",
+      "idiom" : "universal",
+      "platform" : "ios",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
